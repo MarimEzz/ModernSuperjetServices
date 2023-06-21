@@ -81,7 +81,7 @@ var sintonuw;
 
 //////////////////////////////////////////
 var myRequest = new XMLHttpRequest();
-myRequest.open("GET", "https://marimezz.github.io/JSON-API-for-GoBus-data-2021-2022/data.json");
+myRequest.open("GET", "https://marimezz.github.io/api/data.json");
 myRequest.send();
 
 myRequest.addEventListener("readystatechange",myfunction);
