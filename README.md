@@ -4,6 +4,8 @@ Graduation project for Booking System "Modern Superjet Services" is a comprehens
 # Features:
 
 Online Booking: The website and mobile application allow clients to view bus schedules, select and purchase tickets for desired trips, and access a unique QR code for their journey. The platform is user-friendly and easy to navigate, providing a hassle-free experience for passengers.
+<br>
+Demo: https://modern-superjet.netlify.app/
 
 QR Code Ticketing: The project features a powerful QR code ticketing mechanism that ensures efficient and secure ticketing for customers. The QR code is scanned upon boarding the bus, ensuring quick and convenient access for passengers.
 
@@ -15,8 +17,4 @@ The Driver System: A sophisticated tool that empowers drivers to optimize their 
 this project is an advanced platform that prioritizes safety and comfort for passengers while providing a one-stop solution for drivers. The project's innovative features and tools ensure a smooth and efficient travel experience, making it a valuable addition to the transportation industry within safe travel during the COVID-19 pandemic.
 
 # Gallery:
-Bus Door System
 ![Door System](https://github.com/MarimEzz/ModernSuperjetServices/assets/101152070/26c44ebe-76d0-4b66-b48b-ece861fcfd18)
-<video width="400" controls>
-  <source src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4)https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4" type="video/mp4">
-</video>
