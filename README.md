@@ -17,4 +17,5 @@ The Driver System: A sophisticated tool that empowers drivers to optimize their 
 this project is an advanced platform that prioritizes safety and comfort for passengers while providing a one-stop solution for drivers. The project's innovative features and tools ensure a smooth and efficient travel experience, making it a valuable addition to the transportation industry within safe travel during the COVID-19 pandemic.
 
 # Gallery:
-![Door System](https://github.com/MarimEzz/ModernSuperjetServices/assets/101152070/26c44ebe-76d0-4b66-b48b-ece861fcfd18)
+<img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System.png)https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System.png" width="300">
+
