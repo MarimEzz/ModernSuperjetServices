@@ -19,7 +19,7 @@ this project is an advanced platform that prioritizes safety and comfort for pas
 # Gallery:
 <div style="display:flex;">
 <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System.png" width="300">
-<img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/erd.png" width="300">
+<img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/sequnce%20diagram.png" width="300">
 <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/use%20case.png" width="300">
 <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/workflow%20embedded.png" width="300">
 <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/workflow%20web-app.png" width="300">
