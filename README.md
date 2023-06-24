@@ -4,7 +4,6 @@ Graduation project for Booking System "Modern Superjet Services" is a comprehens
 # Features:
 
 Online Booking: The website and mobile application allow clients to view bus schedules, select and purchase tickets for desired trips, and access a unique QR code for their journey. The platform is user-friendly and easy to navigate, providing a hassle-free experience for passengers.
-Demo: https://modern-superjet.netlify.app/
 
 QR Code Ticketing: The project features a powerful QR code ticketing mechanism that ensures efficient and secure ticketing for customers. The QR code is scanned upon boarding the bus, ensuring quick and convenient access for passengers.
 
@@ -12,5 +11,10 @@ Bus Door System: The project includes important safety measures to protect passe
 
 The Driver System: A sophisticated tool that empowers drivers to optimize their routes for maximum efficiency and timeliness. By utilizing the starting and stopping points inputted into the system, this tool provides drivers with the most direct and efficient path to their destination, taking into account factors such as distance and time constraints. This comprehensive solution enhances the overall experience for both customers and drivers, allowing for more streamlined and effective transportation services.
 
-Overall, this project is an advanced platform that prioritizes safety and comfort for passengers while providing a one-stop solution for drivers. The project's innovative features and tools ensure a smooth and efficient travel experience, making it a valuable addition to the transportation industry within safe travel during the COVID-19 pandemic.
+# Overall:
+this project is an advanced platform that prioritizes safety and comfort for passengers while providing a one-stop solution for drivers. The project's innovative features and tools ensure a smooth and efficient travel experience, making it a valuable addition to the transportation industry within safe travel during the COVID-19 pandemic.
 
+# Gallery:
+Bus Door System
+https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System.png
+https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4
