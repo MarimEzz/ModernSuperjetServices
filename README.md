@@ -16,5 +16,7 @@ this project is an advanced platform that prioritizes safety and comfort for pas
 
 # Gallery:
 Bus Door System
-https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System.png
-https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4
+![Door System](https://github.com/MarimEzz/ModernSuperjetServices/assets/101152070/26c44ebe-76d0-4b66-b48b-ece861fcfd18)
+<video width="400" controls>
+  <source src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4)https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/Door%20System%20Test.mp4" type="video/mp4">
+</video>
