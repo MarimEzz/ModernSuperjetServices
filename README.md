@@ -1,4 +1,4 @@
-# ModernSuperjetServices
+# Modern Superjet Services
 <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/2022-12-03-19-33-20.png" width="550">
 Graduation project for Booking System "Modern Superjet Services" is a comprehensive and innovative platform that provides a safe and convenient way for clients to book bus tickets. The project features a range of innovative features and tools that enhance the ticketing experience for users and ensure safe travel during the COVID-19 pandemic.
 
