@@ -6,6 +6,8 @@ Graduation project for Booking System "Modern Superjet Services" is a comprehens
 
 Online Booking: The website and mobile application allow clients to view bus schedules, select and purchase tickets for desired trips, and access a unique QR code for their journey. The platform is user-friendly and easy to navigate, providing a hassle-free experience for passengers.
 <br>
+Click Video To View [>> VIDEO](https://vimeo.com/898745013?share=copy)
+
 Demo: https://modern-superjet.netlify.app/
 
 QR Code Ticketing: The project features a powerful QR code ticketing mechanism that ensures efficient and secure ticketing for customers. The QR code is scanned upon boarding the bus, ensuring quick and convenient access for passengers.
